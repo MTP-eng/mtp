@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Arquivo de verificação de propriedade do domínio para Microsoft 365 local na raiz do site",
+  "Domain": "mtp.eng.br",
+  "Id": "c3110831-eed5-46cb-8109-7b6d17b6ad7e"
+}
